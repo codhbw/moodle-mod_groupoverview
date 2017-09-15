@@ -6,7 +6,7 @@ Groupoverview is a resource activity module for Moodle which allows teachers to 
 Motivation
 ----------
 
-Whereas teachers can always see an overview of all the groups and groupings, students can - at the best - only look at one group in the 'Participants' view of the course at the same time. There is no way for them to view a list of all the other groups, not to mention the groupings.
+Whereas teachers can always see an overview of all the groups and groupings, students can - at best - only look at one group in the 'Participants' view of the course at the same time. There is no way for them to view a list of all the other groups, not to mention the groupings.
 However, in a course where students are encouraged to collaborate and to take a look at the other groups' work on a regular basis, this can quickly become an obstacle. They need an easier and more accessible way to find out what the other groups are doing. This plugin aims to provide such a functionality.
 
 Let's say for example that each group is working on creating a portfolio about an author who was a leading exponent of a literary movement. These literary movements could be used to divide the groups into different categories such as 'Realism', 'Naturalism' and 'Stream of consciousness'.
